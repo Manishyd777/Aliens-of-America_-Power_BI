@@ -9,3 +9,12 @@
 - Reservation available or not
 - liquor served or not. 
 
+## Dataset converted in interactive Dashboard  show how investers can make conclusions by analysing various points like -
+- looking at Zomato's count of reviews of top 20 restaurants its easy to know about populality of restaurant.
+- switching between veg/non-veg slicer shows most popular restaurants.
+- average cost per person plays important role deciding in which region and cuisine people are spending more.
+- perbooking plays imp role in restaurants business and can show mojor difference in average order value.
+- rent per sqare foot help in deciding the pre budget of restaurant investment. 
+- liquor plays important role in modern era. with liquor slicer one can easily check regions serving more liquor.
+- total count of reviews by zomato show how much people are active in giving feedback to area and regions.
+ 
