@@ -10,7 +10,7 @@
 - liquor served or not. 
 
 ## Dataset converted in interactive Dashboard  show how investers can make conclusions by analysing various points like -
-- looking at Zomato's count of reviews of top 20 restaurants its easy to know about populality of restaurant.
+- looking at Zomato's count of reviews of top 20 restaurants clearify the most popular restaurants and cuisines.
 - switching between veg/non-veg slicer shows most popular restaurants.
 - average cost per person plays important role deciding in which region and cuisine people are spending more.
 - perbooking plays imp role in restaurants business and can show mojor difference in average order value.
