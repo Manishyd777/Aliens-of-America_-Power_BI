@@ -6,6 +6,6 @@
 - Cost per Person 
  - Rent persqft 
 - Veg/Non-Veg 
-- pre booking 
+- Reservation available or not
 - liquor served or not. 
 
